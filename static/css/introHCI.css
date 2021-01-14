@@ -16,6 +16,14 @@ body {
      padding: 20px;
 }
 
+p {
+     font-variant: small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -31,4 +39,12 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+
+.project {
+     font-variant: small-caps;
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px
+     width: 525px;
 }
